@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.38.0-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 Welcome to the **Multi-Disease Prediction and Health Recommendation System**, a web application that leverages machine learning to predict the likelihood of diseases such as Diabetes, Heart Disease, Parkinson's Disease, and Breast Cancer. Using trained models and user-provided medical data, the system not only predicts disease presence but also generates personalized health reports with actionable advice using the Hugging Face Inference API. Built with Streamlit, this tool is user-friendly and designed for educational purposes.
 
