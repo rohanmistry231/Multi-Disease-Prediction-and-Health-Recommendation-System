@@ -68,7 +68,7 @@ Welcome to the **Multi-Disease Prediction and Health Recommendation System**, a 
      - `heart_disease_model.sav`
      - `parkinsons_model.sav`
      - `breast_cancer_model.sav`
-   - If these models are missing, you can train them using the notebooks in `colab_files_to_train_models/`. See the [Training Models](#-training-models) section for details.
+   - If these models are missing, you can train them using the notebooks in `colab_files_to_train_models/`. See the *Training Models* section for details.
 
 ### Running the Application
 
@@ -118,8 +118,8 @@ multi-disease-prediction/
 │
 ├── .streamlit/                   # Streamlit configuration (e.g., secrets.toml)
 ├── colab_files_to_train_models/  # Jupyter notebooks for training models
-├── dataset/                      # Datasets used for training (not tracked in Git)
-├── saved_models/                 # Pre-trained model files (not tracked in Git)
+├── dataset/                      # Datasets used for training
+├── saved_models/                 # Pre-trained model files
 ├── app.py                        # Main Streamlit application script
 ├── README.md                     # Project documentation
 ├── requirements.txt              # Python dependencies
