@@ -1,0 +1,6 @@
+streamlit
+streamlit-option-menu
+huggingface_hub
+pandas
+numpy
+scikit-learn

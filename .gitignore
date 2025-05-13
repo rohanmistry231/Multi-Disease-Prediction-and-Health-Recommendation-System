@@ -1,0 +1,32 @@
+# Streamlit configuration
+.streamlit/
+
+# Folders with large or generated files
+colab_files_to_train_models/*.ipynb_checkpoints/
+colab_files_to_train_models/*.log
+dataset/
+saved_models/
+
+# Python-specific exclusions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Common temporary files
+*.log
+.DS_Store
+*.swp
+*~
+
+# IDE-specific files
+.vscode/
+.idea/
