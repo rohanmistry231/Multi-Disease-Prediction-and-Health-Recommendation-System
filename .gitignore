@@ -4,8 +4,6 @@
 # Folders with large or generated files
 colab_files_to_train_models/*.ipynb_checkpoints/
 colab_files_to_train_models/*.log
-dataset/
-saved_models/
 
 # Python-specific exclusions
 __pycache__/
